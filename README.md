@@ -2,7 +2,7 @@
 
 ### Lector - [Serhii Savchuk](https://www.linkedin.com/in/sergey-savchuk-fronend/)
 
-### Structure of repo
+### Structure of repo.
 
 Each lesson we will create new folder with number of lesson. For example: **'lesson1'**.
 
